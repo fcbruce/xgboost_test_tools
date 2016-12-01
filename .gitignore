@@ -1,0 +1,8 @@
+models/*
+feature/*
+data/*
+rule/*
+
+!*/sample*
+
+*pyc
